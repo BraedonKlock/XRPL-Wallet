@@ -1,6 +1,6 @@
 # XRPL Wallet - built with React App
 
-This project was bootstrapped with [Create React App]
+XRPL Testnet wallet: generate, save, and send XRP between addresses.
 
 ## To run
 
