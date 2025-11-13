@@ -13,3 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # Tech Stack
 
 Frontend: React
+
+## 🎥 Watch Demo
+[▶️ To watch the video: Click the link! Then download the RAW file!](WalletDemo.mp4)s
+
